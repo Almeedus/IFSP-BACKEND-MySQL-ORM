@@ -1,4 +1,4 @@
-# IFSP BACKEND Flask ORM
+# IFSP BACKEND Flask MySQL ORM
 
 Projeto realizado em Flask com o intuito de realizar um CRUD num banco de dados relacional (SQL), no caso o MySQL. O projeto realiza o processo de vida util de um produto numa papelaria(C- criação do produto no banco, R- leitura individual e geral dos registros, U- atualização do produto, D- deleção do produto no banco de dados).
 
